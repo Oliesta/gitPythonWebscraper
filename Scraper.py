@@ -1,6 +1,6 @@
 import requests # for making standard html requests
 from bs4 import BeautifulSoup # magical tool for parsing html data
-# import json # for parsing data
+import json # for parsing data
 from pandas import DataFrame as df # premier library for data organization
 from tabulate import tabulate
 
